@@ -41,7 +41,7 @@ function loadCart() {
 async function loadData() {
   try {
 
-    const res = await fetch("/data/products.json");
+    const res = await fetch("data/products.json");
 
     if (!res.ok) {
       throw new Error("No se pudo cargar productos.json");
