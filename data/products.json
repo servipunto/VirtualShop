@@ -1,0 +1,586 @@
+{
+  "tienda": {
+    "nombre": "ServiPunto David",
+    "slogan": "Productos frescos y de calidad",
+    "whatsapp": "573052751651",
+    "moneda": "COP"
+  },
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Tomate",
+      "imagen": "img/tomates.jpeg",
+      "categoria": "verdura",
+      "precio": 3000,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 2,
+      "nombre": "Cebolla",
+      "imagen": "img/cebolla.jpeg",
+      "categoria": "verdura",
+      "precio": 5000,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 20,
+      "nombre": "Cebolla blanca",
+      "imagen": "img/cebollaBlanca.png",
+      "categoria": "verdura",
+      "precio": 5000,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 3,
+      "nombre": "Aguacates",
+      "imagen": "img/aguacates.jpeg",
+      "categoria": "fruta",
+      "precio": 3000,
+      "unidad": "",
+      "agotado": true
+    },
+    {
+      "id": 4,
+      "nombre": "Papa",
+      "imagen": "img/papas.jpeg",
+      "categoria": "bastimentos",
+      "precio": 3000,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 5,
+      "nombre": "Platano Amarillo",
+      "imagen": "img/platanos.jpeg",
+      "categoria": "bastimentos",
+      "precio": 1300,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 6,
+      "nombre": "Pimentón",
+      "imagen": "img/Pimenton.jpg",
+      "categoria": "verdura",
+      "precio": 2200,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 7,
+      "nombre": "Pollo Manaurero 14000/kg",
+      "imagen": "img/pollo.png",
+      "categoria": "proteina",
+      "precio": 0,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 8,
+      "nombre": "Carne",
+      "imagen": "img/carne.png",
+      "categoria": "proteina",
+      "precio": 36000,
+      "unidad": "kg",
+      "agotado": true
+    },
+    {
+      "id": 9,
+      "nombre": "Canasta de Huevos",
+      "imagen": "img/huevos.png",
+      "categoria": "proteina",
+      "precio": 14000,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 10,
+      "nombre": "Arroz Diana 1kg",
+      "imagen": "img/ArrozDiana.png",
+      "categoria": "grano",
+      "precio": 4200,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 11,
+      "nombre": "Arroz Sabroso 1kg",
+      "imagen": "img/ArrozSabroson.png",
+      "categoria": "grano",
+      "precio": 4200,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 12,
+      "nombre": "Arroz Diana 500gr",
+      "imagen": "img/ArrozDiana500gr.png",
+      "categoria": "grano",
+      "precio": 2100,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 13,
+      "nombre": "Fideo Comarrico 500gr",
+      "imagen": "img/Fideo500gr.png",
+      "categoria": "grano",
+      "precio": 3000,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 14,
+      "nombre": "Queso Suave",
+      "imagen": "img/queso.jpg",
+      "categoria": "lacteo",
+      "precio": 22000,
+      "unidad": "kg",
+      "agotado": false
+    }, 
+    {
+      "id": 15,
+      "nombre": "Queso Duro",
+      "imagen": "img/queso.jpg",
+      "categoria": "lacteo",
+      "precio": 24000,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 16,
+      "nombre": "Atun Vcans en Agua 160gr",
+      "imagen": "img/AtunAgua.png",
+      "categoria": "despensa",
+      "precio": 8000,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 17,
+      "nombre": "Atun Vcans en Aceite 160gr",
+      "imagen": "img/AtunAceite.png",
+      "categoria": "despensa",
+      "precio": 8000,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 18,
+      "nombre": "Sandia 3000/kg",
+      "imagen": "img/Sandia.png",
+      "categoria": "fruta",
+      "precio": 0,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 19,
+      "nombre": "Bolsa de Maiz Pira",
+      "imagen": "img/maizpira.jpeg",
+      "categoria": "grano",
+      "precio": 2500,
+      "unidad": "libra",
+      "agotado": false
+    },
+    {
+      "id": 20,
+      "nombre": "Leche Klarens de MegaLitro",
+      "imagen": "img/Leche_Megalitro.png",
+      "categoria": "lacteo",
+      "precio": 5300,
+      "unidad": "",
+      "agotado": true
+    },
+    {
+      "id": 21,
+      "nombre": "Leche Klarens Deslactosada de MegaLitro",
+      "imagen": "img/Lechedesla_Megalitro.png",
+      "categoria": "lacteo",
+      "precio": 6000,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 22,
+      "nombre": "Suero Klarens",
+      "imagen": "img/Sueroklarens.png",
+      "categoria": "lacteo",
+      "precio": 5800,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 23,
+      "nombre": "Quesillo del Oriente 250gr",
+      "imagen": "img/quesillo.png",
+      "categoria": "lacteo",
+      "precio": 8800,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 24,
+      "nombre": "Leche Klarens de 900ml",
+      "imagen": "img/Leche_Klarens900ml.png",
+      "categoria": "lacteo",
+      "precio": 4300,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 25,
+      "nombre": "Leche Klarens de 400ml",
+      "imagen": "img/leche_Klarens400ml.png",
+      "categoria": "lacteo",
+      "precio": 2300,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 26,
+      "nombre": "Cerdo lomo",
+      "imagen": "",
+      "categoria": "proteina",
+      "precio": 24000,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 27,
+      "nombre": "Cerdo chuleta",
+      "imagen": "img/chuleta_cerdo.png",
+      "categoria": "proteina",
+      "precio": 22000,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 28,
+      "nombre": "Platano Verde",
+      "imagen": "img/platanos.jpeg",
+      "categoria": "bastimentos",
+      "precio": 1300,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 29,
+      "nombre": "Cerdo hueso",
+      "imagen": "",
+      "categoria": "proteina",
+      "precio": 5000,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 30,
+      "nombre": "Auyama",
+      "imagen": "img/Auyama.png",
+      "categoria": "bastimentos",
+      "precio": 5000,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 31,
+      "nombre": "Cebollin",
+      "imagen": "img/cebollin.jpg",
+      "categoria": "bastimentos",
+      "precio": 7000,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 32,
+      "nombre": "Ajo",
+      "imagen": "img/ajo.jpg",
+      "categoria": "bastimentos",
+      "precio": 10000,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 33,
+      "nombre": "Lechuga",
+      "imagen": "img/lechuga.jpg",
+      "categoria": "verdura",
+      "precio": 6000,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 34,
+      "nombre": "Malanga",
+      "imagen": "img/malanga.png",
+      "categoria": "bastimentos",
+      "precio": 5000,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 35,
+      "nombre": "Yuca",
+      "imagen": "img/yuca.png",
+      "categoria": "bastimentos",
+      "precio": 4000,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 36,
+      "nombre": "Guineo Verde",
+      "imagen": "img/guineoverde.jpg",
+      "categoria": "bastimentos",
+      "precio": 2500,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 37,
+      "nombre": "Taco Salto Noel",
+      "imagen": "img/tacoSaltinNoel.png",
+      "categoria": "despensa",
+      "precio": 1500,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 38,
+      "nombre": "Aceite de 430ml",
+      "imagen": "img/aceite-imperial-430ml.png",
+      "categoria": "despensa",
+      "precio": 3300,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 39,
+      "nombre": "Aceite de 900ml",
+      "imagen": "img/aceite-imperial-430ml.png",
+      "categoria": "despensa",
+      "precio": 5500,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 40,
+      "nombre": "Aceite de 3lts",
+      "imagen": "img/aceite-imperial-3lt.png",
+      "categoria": "despensa",
+      "precio": 17400,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 41,
+      "nombre": "Cafe Sello Rojo 40gr",
+      "imagen": "img/Cafe_Sellorojo.png",
+      "categoria": "despensa",
+      "precio": 2500,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 42,
+      "nombre": "Cafe Suelto",
+      "imagen": "img/cafe.jpg",
+      "categoria": "despensa",
+      "precio": 40000,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 43,
+      "nombre": "Paquete de cafe sellorojo de 40gr",
+      "imagen": "img/PaqueteCafe_Sellorojo.png",
+      "categoria": "despensa",
+      "precio": 23500,
+      "unidad": "10 unidades",
+      "agotado": false
+    },
+    {
+      "id": 44,
+      "nombre": "Harina Pan 1kg",
+      "imagen": "img/HarinaPan.png",
+      "categoria": "despensa",
+      "precio": 3700,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 45,
+      "nombre": "Sal refisal 500gr",
+      "imagen": "img/Sal_Refisal_500gr.png",
+      "categoria": "despensa",
+      "precio": 1500,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 46,
+      "nombre": "Bolsa de Pan mantequilla",
+      "imagen": "",
+      "categoria": "despensa",
+      "precio": 3000,
+      "unidad": "6 unidades",
+      "agotado": true
+    },
+    {
+      "id": 47,
+      "nombre": "Pan de 2mil",
+      "imagen": "",
+      "categoria": "despensa",
+      "precio": 2000,
+      "unidad": "",
+      "agotado": true
+    },
+    {
+      "id": 48,
+      "nombre": "Lulo",
+      "imagen": "img/lulo.jpg",
+      "categoria": "fruta",
+      "precio": 9000,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 49,
+      "nombre": "Coco",
+      "imagen": "img/coco.png",
+      "categoria": "fruta",
+      "precio": 6000,
+      "unidad": "",
+      "agotado": true
+    },
+    {
+      "id": 50,
+      "nombre": "Tomate de arbol",
+      "imagen": "img/tomateArbol.png",
+      "categoria": "fruta",
+      "precio": 6000,
+      "unidad": "kg",
+      "agotado": true
+    },
+    {
+      "id": 51,
+      "nombre": "limon",
+      "imagen": "img/limon.png",
+      "categoria": "fruta",
+      "precio": 300,
+      "unidad": "",
+      "agotado": true
+    },
+    {
+      "id": 52,
+      "nombre": "Mora",
+      "imagen": "img/mora.jpg",
+      "categoria": "fruta",
+      "precio": 9000,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 52,
+      "nombre": "Maracuya",
+      "imagen": "img/Maracuya.jpeg",
+      "categoria": "fruta",
+      "precio": 6000,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 53,
+      "nombre": "Guineo Maduro",
+      "imagen": "img/banano.png",
+      "categoria": "fruta",
+      "precio": 500,
+      "unidad": "",
+      "agotado": true
+    },
+    {
+      "id": 54,
+      "nombre": "Naranja",
+      "imagen": "img/Naranja.jpg",
+      "categoria": "fruta",
+      "precio": "",
+      "unidad": "",
+      "agotado": true
+    },
+    {
+      "id": 55,
+      "nombre": "Piña",
+      "imagen": "img/piñas.jpeg",
+      "categoria": "fruta",
+      "precio": 6000,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 56,
+      "nombre": "Maracuya en pulpa",
+      "imagen": "img/PulpaMaracuya.png",
+      "categoria": "fruta",
+      "precio": 15000,
+      "unidad": "kg",
+      "agotado": false
+    },
+    {
+      "id": 57,
+      "nombre": "Pepino",
+      "imagen": "img/pepino.png",
+      "categoria": "fruta",
+      "precio": 1300,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 58,
+      "nombre": "Media canasta de huevo",
+      "imagen": "img/media-huevo.png",
+      "categoria": "proteina",
+      "precio": 7000,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 59,
+      "nombre": "Azucar Riopaila 500gr",
+      "imagen": "img/Azucar500gr.png",
+      "categoria": "despensa",
+      "precio": 2200,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 60,
+      "nombre": "Azucar Riopaila 1kg",
+      "imagen": "img/Azucar1kg.png",
+      "categoria": "despensa",
+      "precio": 4100,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 61,
+      "nombre": "Azucar Riopaila 2,5kg",
+      "imagen": "img/Azucar25kg.png",
+      "categoria": "despensa",
+      "precio": 10200,
+      "unidad": "",
+      "agotado": false
+    },
+    {
+      "id": 62,
+      "nombre": "Caja Fosforo Refuegos",
+      "imagen": "img/Fosforos.png",
+      "categoria": "despensa",
+      "precio": 1900,
+      "unidad": "",
+      "agotado": false
+    }
+  ]
+}
