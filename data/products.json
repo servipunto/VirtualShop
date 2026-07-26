@@ -89,7 +89,7 @@
     },
     {
       "id": 9,
-      "nombre": "Canasta de Huevos",
+      "nombre": "Canasta de Huevos semicriollos",
       "imagen": "img/huevos.png",
       "categoria": "proteina",
       "precio": 14000,
@@ -539,7 +539,7 @@
     },
     {
       "id": 58,
-      "nombre": "Media canasta de huevo",
+      "nombre": "Media canasta de huevo semicriollo",
       "imagen": "img/media-huevo.png",
       "categoria": "proteina",
       "precio": 7000,
