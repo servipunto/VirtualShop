@@ -90,7 +90,7 @@
     {
       "id": 9,
       "nombre": "Canasta de Huevos semicriollos",
-      "imagen": "img/huevos.png",
+      "imagen": "img/Huevos.png",
       "categoria": "proteina",
       "precio": 14000,
       "unidad": "",
@@ -198,7 +198,7 @@
     {
       "id": 21,
       "nombre": "Leche Klarens Deslactosada de MegaLitro",
-      "imagen": "img/Lechedesla_Megalitro.png",
+      "imagen": "img/LecheDesla_Megalitro.png",
       "categoria": "lacteo",
       "precio": 6000,
       "unidad": "",
@@ -207,7 +207,7 @@
     {
       "id": 22,
       "nombre": "Suero Klarens",
-      "imagen": "img/Sueroklarens.png",
+      "imagen": "img/SueroKlarens.png",
       "categoria": "lacteo",
       "precio": 5800,
       "unidad": "",
