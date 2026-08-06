@@ -11,7 +11,7 @@
       "nombre": "Tomate",
       "imagen": "img/tomates.jpeg",
       "categoria": "verdura",
-      "precio": 3000,
+      "precio": 6000,
       "unidad": "kg",
       "agotado": false
     },
@@ -56,7 +56,7 @@
       "nombre": "Platano Amarillo",
       "imagen": "img/platanos.jpeg",
       "categoria": "bastimentos",
-      "precio": 1300,
+      "precio": 1400,
       "unidad": "",
       "agotado": false
     },
@@ -65,7 +65,7 @@
       "nombre": "Pimentón",
       "imagen": "img/Pimenton.jpg",
       "categoria": "verdura",
-      "precio": 2200,
+      "precio": 6000,
       "unidad": "kg",
       "agotado": false
     },
@@ -137,7 +137,7 @@
       "nombre": "Queso Suave",
       "imagen": "img/queso.jpg",
       "categoria": "lacteo",
-      "precio": 22000,
+      "precio": 0,
       "unidad": "kg",
       "agotado": false
     }, 
@@ -146,7 +146,7 @@
       "nombre": "Queso Duro",
       "imagen": "img/queso.jpg",
       "categoria": "lacteo",
-      "precio": 24000,
+      "precio": 0,
       "unidad": "kg",
       "agotado": false
     },
@@ -155,7 +155,7 @@
       "nombre": "Atun Vcans en Agua 160gr",
       "imagen": "img/AtunAgua.png",
       "categoria": "despensa",
-      "precio": 8000,
+      "precio": 7500,
       "unidad": "",
       "agotado": false
     },
@@ -164,7 +164,7 @@
       "nombre": "Atun Vcans en Aceite 160gr",
       "imagen": "img/AtunAceite.png",
       "categoria": "despensa",
-      "precio": 8000,
+      "precio": 7500,
       "unidad": "",
       "agotado": false
     },
@@ -263,7 +263,7 @@
       "nombre": "Platano Verde",
       "imagen": "img/platanos.jpeg",
       "categoria": "bastimentos",
-      "precio": 1300,
+      "precio": 1400,
       "unidad": "",
       "agotado": false
     },
@@ -281,7 +281,7 @@
       "nombre": "Auyama",
       "imagen": "img/Auyama.png",
       "categoria": "bastimentos",
-      "precio": 5000,
+      "precio": ,
       "unidad": "kg",
       "agotado": false
     },
@@ -317,7 +317,7 @@
       "nombre": "Malanga",
       "imagen": "img/malanga.png",
       "categoria": "bastimentos",
-      "precio": 5000,
+      "precio": "",
       "unidad": "kg",
       "agotado": false
     },
@@ -335,7 +335,7 @@
       "nombre": "Guineo Verde",
       "imagen": "img/guineoverde.jpg",
       "categoria": "bastimentos",
-      "precio": 2500,
+      "precio": "",
       "unidad": "kg",
       "agotado": false
     },
@@ -443,7 +443,7 @@
       "nombre": "Lulo",
       "imagen": "img/lulo.jpg",
       "categoria": "fruta",
-      "precio": 9000,
+      "precio": 0,
       "unidad": "kg",
       "agotado": false
     },
@@ -452,9 +452,9 @@
       "nombre": "Coco",
       "imagen": "img/coco.png",
       "categoria": "fruta",
-      "precio": 6000,
+      "precio": 0,
       "unidad": "",
-      "agotado": true
+      "agotado": false
     },
     {
       "id": 50,
@@ -463,16 +463,16 @@
       "categoria": "fruta",
       "precio": 6000,
       "unidad": "kg",
-      "agotado": true
+      "agotado": false
     },
     {
       "id": 51,
       "nombre": "limon",
       "imagen": "img/limon.png",
       "categoria": "fruta",
-      "precio": 300,
-      "unidad": "",
-      "agotado": true
+      "precio": 8200,
+      "unidad": "kg",
+      "agotado": false
     },
     {
       "id": 52,
@@ -499,7 +499,7 @@
       "categoria": "fruta",
       "precio": 500,
       "unidad": "",
-      "agotado": true
+      "agotado": false
     },
     {
       "id": 54,
@@ -508,7 +508,7 @@
       "categoria": "fruta",
       "precio": "",
       "unidad": "",
-      "agotado": true
+      "agotado": false
     },
     {
       "id": 55,
@@ -533,7 +533,7 @@
       "nombre": "Pepino",
       "imagen": "img/pepino.png",
       "categoria": "fruta",
-      "precio": 1300,
+      "precio": "",
       "unidad": "",
       "agotado": false
     },
