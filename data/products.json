@@ -281,7 +281,7 @@
       "nombre": "Auyama",
       "imagen": "img/Auyama.png",
       "categoria": "bastimentos",
-      "precio": ,
+      "precio": 0,
       "unidad": "kg",
       "agotado": false
     },
@@ -317,7 +317,7 @@
       "nombre": "Malanga",
       "imagen": "img/malanga.png",
       "categoria": "bastimentos",
-      "precio": "",
+      "precio": 0,
       "unidad": "kg",
       "agotado": false
     },
@@ -335,7 +335,7 @@
       "nombre": "Guineo Verde",
       "imagen": "img/guineoverde.jpg",
       "categoria": "bastimentos",
-      "precio": "",
+      "precio": 0,
       "unidad": "kg",
       "agotado": false
     },
@@ -506,7 +506,7 @@
       "nombre": "Naranja",
       "imagen": "img/Naranja.jpg",
       "categoria": "fruta",
-      "precio": "",
+      "precio": 0,
       "unidad": "",
       "agotado": false
     },
@@ -533,7 +533,7 @@
       "nombre": "Pepino",
       "imagen": "img/pepino.png",
       "categoria": "fruta",
-      "precio": "",
+      "precio": 0,
       "unidad": "",
       "agotado": false
     },
